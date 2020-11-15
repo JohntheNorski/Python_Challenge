@@ -1,5 +1,5 @@
 This data includes: 86 Months 
 Net Total: $38382578
 Average Price Change: $-2315.12
-Greatest Price Increase: $1926159
-Greatest Price Decrease: $-2196167
+Greatest Price Increase: Feb-2012  $1926159
+Greatest Price Decrease: Sep-2013  $-2196167
